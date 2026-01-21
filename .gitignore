@@ -1,0 +1,6 @@
+.idea
+*.iml
+.python-version
+engineering_docs
+.env
+__pycache__/
